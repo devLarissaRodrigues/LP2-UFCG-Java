@@ -1,3 +1,4 @@
+package coisa;
 /**
  * Laboratório de Programação 2 - Lab02
  * @author Larissa M. de S. Rodrigues
